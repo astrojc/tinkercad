@@ -1,8 +1,23 @@
 # Prácticas de TinkerCAD
 
-[Práctica 1: Motor, pilas y conmutadores](https://www.tinkercad.com/things/1ws9cSJR5QG-ernesto01/editel?sharecode=OPeX9A0z_Im2by1X9KbbHiw0LMj4LXL8WtKXYsD-LqQ)
+# Electricidad
 
-[Prácticas de maqueen](maqueen.md)
+[Práctica 1](https://www.tinkercad.com/things/1ws9cSJR5QG-ernesto01/editel?sharecode=OPeX9A0z_Im2by1X9KbbHiw0LMj4LXL8WtKXYsD-LqQ)
 
-[Prácticas de Impresión 3D](3Dprinting.md)
+[Práctica 2]([https://www.tinkercad.com/things/1ws9cSJR5QG-ernesto01/editel?sharecode=OPeX9A0z_Im2by1X9KbbHiw0LMj4LXL8WtKXYsD-LqQ](https://www.tinkercad.com/things/7fnIDy9GOB0-ernesto03/editel?sharecode=O4KGy7l0dJS97yYOLK_hYi3_fDzHeOzd2xaApjmEKK4))
+
+
+# Electrónica analógica
+
+
+
+
+# Electrónica digital
+
+
+
+
+# Circuitos programados (Arduino)
+
+
 
