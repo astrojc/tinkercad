@@ -1,4 +1,10 @@
-# Prácticas de TinkerCAD
+# Taller de TinkerCAD
+
+# Alta en la plataforma
+
+Iniciar sesión > Cuentas personales > Iniciar sesión con Google 
+
+Crear una clase >> Introducir información > Copiar vínculo de clase
 
 # Electricidad
 
