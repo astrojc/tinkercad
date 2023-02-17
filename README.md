@@ -27,9 +27,13 @@ Crear una clase >> Introducir información > Copiar vínculo de clase
 
 # Electrónica digital
 
-[Práctica 1](https://www.tinkercad.com/things/1ws9cSJR5QG-ernesto01/editel?sharecode=OPeX9A0z_Im2by1X9KbbHiw0LMj4LXL8WtKXYsD-LqQ)
+[Práctica 1: Puerta NOT](https://docs.google.com/document/d/1NPZbIT9tEqH4CtZgcO2THzG4OkUDbMOzCwOjfFThpWY/edit)
 
-[Práctica 1](https://www.tinkercad.com/things/1ws9cSJR5QG-ernesto01/editel?sharecode=OPeX9A0z_Im2by1X9KbbHiw0LMj4LXL8WtKXYsD-LqQ)
+[Práctica 2: Puertas OR](https://docs.google.com/document/d/1drtGhxQE6aM3H2dTBtdAqZePOskGRxLCdSwa6gicqGI/edit)
+
+[Práctica 3: Circuito control limpiaparabrisas](https://docs.google.com/document/d/1ENMEoOxzYBVWLIXvjUBeg4vn29NS1fsKaO1V68v9nqo/edit)
+
+[Práctica 4: Decodificador BCD a 7 segmentos](https://docs.google.com/document/d/17eDQTGslerptDsV09Wa5Dsw0CdcphxLT5iL9FXvcNiY/edit)
 
 
 # Circuitos programados (Arduino)
