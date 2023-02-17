@@ -38,5 +38,25 @@ Crear una clase >> Introducir información > Copiar vínculo de clase
 
 # Circuitos programados (Arduino)
 
+[Práctica 1: Salidas digitales I](https://docs.google.com/document/d/1s0Wl3QmOXRPNrU7JeB6LtuAzbGWEFJ1LAqS4_uaPraY/edit)
 
+[Práctica 2: Salidas digitales II Semáforo](https://docs.google.com/document/d/1sTaZ7In1mRkX-XzJAS4-dTUvz8GVfLmrbqfbKdFKpeA/edit)
+
+[Práctica 3: Salidas digitales III Coche fantástico](https://docs.google.com/document/d/15zcC-5Hebt-w8Fk9dTqnohD6WDMkP1DJa1u7Ycp0wF4/edit)
+
+[Práctica 4: Pulsador y LED](https://docs.google.com/document/d/1AeC1VO6vPsU1lHD3VtRHel1Jz-4o6c2zz0VdXoTzCGM/edit)
+
+[Práctica 5: Entradas analógicas](https://docs.google.com/document/d/1mFx17CjsphQKFI_j3uqfEiP5POtBxQ_YUeWi-2egVok/edit)
+
+[Práctica 6: Salidas PWM control brillo LED](https://docs.google.com/document/d/1onpMq78RA4vqbZQESyak22dbnT2lTM7H0uyZhYGKyX8/edit)
+
+[Práctica 7: Salidas PWM control servomotor](https://docs.google.com/document/d/1RiZhpgo6muzhVyI3Kujn-c1umEvapfGQluSnTvyKvqA/edit)
+
+[Práctica 8: RETO: Servomotor y LDR](https://docs.google.com/document/d/13uYpECc8wF5JgLdKZlPynFIH_yZwAd_lrXEiQ78KPXk/edit)
+
+[Práctica 9: Midiendo temperatura](https://docs.google.com/document/d/1PZ-bJvlgDByLWhNiL6cd8luCwYRYMXvOXxkhlTBEjoI/edit)
+
+[Práctica 10: Sensor PIR](https://docs.google.com/document/d/1sujRPfUKV__SKIA4VcMLMj9Kazx2zSpL4427km-Tu2I/edit)
+
+[Práctica 11: Control motor C.C.](https://docs.google.com/document/d/1qMXqYJuCURmV5C4WEPQmbR-bROZ3-Km5GwgMKSLx2z4/edit)
 
